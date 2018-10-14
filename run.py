@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import datetime
 from scapy.all import sendp, sniff, UDP
 
 inbound = "wlan0"
